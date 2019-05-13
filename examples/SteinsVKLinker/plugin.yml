@@ -1,0 +1,6 @@
+name: "SteinsVKLinker"
+author: "themestl"
+version: "1.0"
+
+main: steinssquad\vklinker\SteinsVKLinker
+api: ["3.6.5", "4.0.0"]
